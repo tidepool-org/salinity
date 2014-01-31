@@ -1,0 +1,23 @@
+{
+  "name": "salinity",
+  "version": "0.0.0",
+  "description": "Test library from tidepool.org",
+  "keywords": [ "test", "mock", "chai", "sinon", "fixture" ],
+  "homepage": "https://github.com/tidepool-org/salinity",
+  "bugs": "https://github.com/tidepool-org/salinity/issues",
+  "license": "BSD-2-clause",
+  "author": {
+    "name": "Eric Tschetter",
+    "email": "cheddar@tidepool.org",
+    "url": "https://github.com/cheddar"
+  },
+  "contributors": [],
+  "files": [ "lib", "index.js" ],
+  "main": "index.js",
+  "repository": "https://github.com/tidepool-org/salinity.git",
+  "dependencies": {
+    "chai": "1.8.1",
+    "sinon": "1.7.3",
+    "sinon-chai": "2.4.0"
+  }
+}
