@@ -1,8 +1,14 @@
 {
   "name": "salinity",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Test library from tidepool.org",
-  "keywords": [ "test", "mock", "chai", "sinon", "fixture" ],
+  "keywords": [
+    "test",
+    "mock",
+    "chai",
+    "sinon",
+    "fixture"
+  ],
   "homepage": "https://github.com/tidepool-org/salinity",
   "bugs": "https://github.com/tidepool-org/salinity/issues",
   "license": "BSD-2-clause",
@@ -12,7 +18,10 @@
     "url": "https://github.com/cheddar"
   },
   "contributors": [],
-  "files": [ "lib", "index.js" ],
+  "files": [
+    "lib",
+    "index.js"
+  ],
   "main": "index.js",
   "repository": "https://github.com/tidepool-org/salinity.git",
   "dependencies": {
