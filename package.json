@@ -25,7 +25,7 @@
   "main": "index.js",
   "repository": "https://github.com/tidepool-org/salinity.git",
   "dependencies": {
-    "chai": "1.10.0",
+    "chai": "2.1.0",
     "sinon": "1.12.2",
     "sinon-chai": "2.7.0"
   }
