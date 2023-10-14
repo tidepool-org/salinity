@@ -1,0 +1,12 @@
+dist: jammy
+
+language: node_js
+
+node_js:
+  - 20.9.0
+
+install:
+  - npm install
+
+script:
+  - npm run lint
