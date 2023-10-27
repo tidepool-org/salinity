@@ -1,6 +1,6 @@
 {
   "name": "salinity",
-  "version": "0.0.9",
+  "version": "0.0.9-alpha.1",
   "description": "Test library from tidepool.org",
   "keywords": [
     "test",
