@@ -1,6 +1,6 @@
 {
   "name": "salinity",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Test library from tidepool.org",
   "keywords": [
     "test",
@@ -36,6 +36,7 @@
     "jshint": "^2.12.0"
   },
   "scripts": {
-    "lint": "jshint lib"
+    "lint": "jshint lib",
+    "test": ""
   }
 }
